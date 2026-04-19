@@ -1,6 +1,6 @@
 # bbc-skill · 哔哩哔哩评论采集
 
-[English README](README_EN.md) · [Online Docs](https://agents365-ai.github.io/bbc-skill/zh.html)
+[English README](README.md) · [Online Docs](https://agents365-ai.github.io/bbc-skill/zh.html)
 
 > UP 主专属：一键拉取自己视频的全部评论，交给 Claude Code / Codex / Gemini / 任何 agent 做情感 / 关键词 / 受众分析。
 
