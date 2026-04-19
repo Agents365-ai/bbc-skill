@@ -29,5 +29,8 @@ spike/
 # Auto-update timestamp
 .last_update
 
+# Example outputs (contain commenter PII — user ids, IP locations, etc.)
+examples/
+
 # OS
 Thumbs.db
