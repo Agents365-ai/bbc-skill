@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cookie files (NEVER commit!)
+*cookies*.txt
+cookie.json
+cookie.txt
+
+# Runtime outputs
+bilibili-comments/
+/tmp/
+
+# Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local-only notes (not for public repo)
+CLAUDE.md
+
+# Spike / exploratory research scripts (kept locally only)
+spike/
+
+# Local Claude Code settings
+.claude/
+
+# OS
+Thumbs.db
