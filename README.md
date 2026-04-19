@@ -298,7 +298,7 @@ Claude 会按这个路径做：
 - `top_replied`：Top N 被回复评论
 - `ip_distribution`：IP 属地分布
 
-详细 schema 见 `DESIGN.md § 6`。
+详细 schema 见 `references/agent-contract.md`。
 
 ---
 
@@ -315,7 +315,6 @@ Claude 会按这个路径做：
 ## 相关文档
 
 - [SKILL.md](./SKILL.md) — 给 Claude 的触发 & 使用指引
-- [DESIGN.md](./DESIGN.md) — 设计决策、字段 schema、agent 契约
 - [references/api-endpoints.md](./references/api-endpoints.md) — 所用 B 站接口字段
 - [references/agent-contract.md](./references/agent-contract.md) — envelope / exit code / schema 契约
 

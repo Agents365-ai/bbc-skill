@@ -32,5 +32,8 @@ spike/
 # Example outputs (contain commenter PII — user ids, IP locations, etc.)
 examples/
 
+# Internal design doc (local reference only)
+DESIGN.md
+
 # OS
 Thumbs.db

@@ -326,7 +326,7 @@ Return JSON schema for a command (param types, exit codes, error codes).
 - `top_replied`: top-N top-level comments by reply count
 - `ip_distribution`: histogram of IP provinces
 
-See `DESIGN.md § 6` for the full schema.
+See `references/agent-contract.md` for the full schema.
 
 ---
 
@@ -346,7 +346,6 @@ See `DESIGN.md § 6` for the full schema.
 ## References
 
 - [SKILL.md](./SKILL.md) — skill trigger + usage guide for Claude
-- [DESIGN.md](./DESIGN.md) — design rationale, field schemas, agent contract
 - [references/api-endpoints.md](./references/api-endpoints.md) — Bilibili
   API fields used
 - [references/agent-contract.md](./references/agent-contract.md) — envelope /
