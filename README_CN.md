@@ -320,6 +320,48 @@ Claude 会按这个路径做：
 
 ---
 
+## 贡献
+
+欢迎提 issue、PR、建议。无论是新的分析场景、更稳的反风控默认值、其他平台支持、文档改进 —— 任何贡献都欢迎。[提 Issue](https://github.com/Agents365-ai/bbc-skill/issues) 或直接发 PR。
+
+---
+
 ## License
 
 MIT
+
+---
+
+## Support
+
+如果这个 skill 帮到了你，可以请作者喝杯咖啡 ☕
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/wechat-pay.png" width="180" alt="微信支付">
+      <br>
+      <b>WeChat Pay</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/alipay.png" width="180" alt="支付宝">
+      <br>
+      <b>Alipay</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/buymeacoffee.png" width="180" alt="Buy Me a Coffee">
+      <br>
+      <b>Buy Me a Coffee</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 作者
+
+**Agents365-ai** &mdash; 为 AI coding agent 制作开源 skill。
+
+- B 站：https://space.bilibili.com/441831884
+- GitHub：https://github.com/Agents365-ai
+- 其他 skill：[drawio-skill](https://github.com/Agents365-ai/drawio-skill) · [asta-skill](https://github.com/Agents365-ai/asta-skill) · [paper-fetch](https://github.com/Agents365-ai/paper-fetch) · [更多 →](https://github.com/Agents365-ai)

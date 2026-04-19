@@ -353,6 +353,55 @@ See `references/agent-contract.md` for the full schema.
 
 ---
 
+## Contributing
+
+Suggestions, bug reports, and pull requests are all welcome. If you have
+ideas — new analysis workflows, better anti-bot defaults, additional
+platform support, documentation fixes — feel free to
+[open an issue](https://github.com/Agents365-ai/bbc-skill/issues) or
+submit a PR directly.
+
+This skill is community-friendly: every contribution, no matter how small,
+helps make it better for everyone.
+
+---
+
 ## License
 
 MIT
+
+---
+
+## Support
+
+If this skill helps you, consider supporting the author:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/wechat-pay.png" width="180" alt="WeChat Pay">
+      <br>
+      <b>WeChat Pay</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/alipay.png" width="180" alt="Alipay">
+      <br>
+      <b>Alipay</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Agents365-ai/images_payment/main/qrcode/buymeacoffee.png" width="180" alt="Buy Me a Coffee">
+      <br>
+      <b>Buy Me a Coffee</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Author
+
+**Agents365-ai** &mdash; building open-source skills for AI coding agents.
+
+- Bilibili: https://space.bilibili.com/441831884
+- GitHub: https://github.com/Agents365-ai
+- Skills: [drawio-skill](https://github.com/Agents365-ai/drawio-skill) · [asta-skill](https://github.com/Agents365-ai/asta-skill) · [paper-fetch](https://github.com/Agents365-ai/paper-fetch) · [more →](https://github.com/Agents365-ai)
