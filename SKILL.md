@@ -171,7 +171,8 @@ After `fetch` completes:
    - Audience geography → `ip_location` histogram
    - Feedback timeline → bucket `ctime_iso` by day/week
 
-See `examples/BV1NjA7zjEAU/` for a real sample.
+The `summary.json` schema is documented in `DESIGN.md § 6`. Run the skill
+against any video to produce a real sample locally.
 
 ## Safety tier
 

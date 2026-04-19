@@ -318,7 +318,6 @@ Claude 会按这个路径做：
 - [DESIGN.md](./DESIGN.md) — 设计决策、字段 schema、agent 契约
 - [references/api-endpoints.md](./references/api-endpoints.md) — 所用 B 站接口字段
 - [references/agent-contract.md](./references/agent-contract.md) — envelope / exit code / schema 契约
-- [examples/BV1NjA7zjEAU/](./examples/) — 真实样本
 
 ---
 
