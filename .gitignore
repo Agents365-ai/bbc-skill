@@ -26,5 +26,8 @@ spike/
 # Local Claude Code settings
 .claude/
 
+# Auto-update timestamp
+.last_update
+
 # OS
 Thumbs.db
